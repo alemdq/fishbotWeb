@@ -2,7 +2,7 @@
 
 Web con el pronóstico de pesca para la Escollera Norte de Mar del Plata: hoy y los 6 días siguientes, de 06 a 00 h, con las mismas reglas del bot de Telegram.
 
-**Web:** https://alemdq.github.io/fishbotweb/
+**Web:** https://alemdq.github.io/fishbotWeb/
 
 ## Cómo funciona
 

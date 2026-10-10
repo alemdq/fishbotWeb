@@ -299,7 +299,7 @@ function renderMarea(d) {
     const alta = e.tipo === 'alta';
     const anchor = x < 56 ? 'start' : x > W - 56 ? 'end' : 'middle';
     g += `<circle cx="${x.toFixed(1)}" cy="${y.toFixed(1)}" r="3.4" fill="${C.panel}" stroke="${C.blue}" stroke-width="2.5"/>`;
-    g += `<text x="${x.toFixed(1)}" y="${(alta ? y - 10 : y + 17).toFixed(1)}" font-size="11" font-weight="500" fill="${C.blueLight}" text-anchor="${anchor}">${alta ? 'alta' : 'baja'} ${hhmm(e.ts)} · ${coma(e.h)} m</text>`;
+    g += `<text x="${x.toFixed(1)}" y="${(alta ? y - 10 : y + 17).toFixed(1)}" font-size="11" font-weight="500" fill="${C.blueLight}" stroke="${C.panel}" stroke-width="4" stroke-linejoin="round" paint-order="stroke" text-anchor="${anchor}">${alta ? 'alta' : 'baja'} ${hhmm(e.ts)} · ${coma(e.h)} m</text>`;
   });
 
   // Pique: pastillas con pececitos
@@ -344,7 +344,7 @@ function renderMarea(d) {
 }
 
 function renderResumen(d) {
-  const mj = d.mejor ? `<span class="va" style="color:${C.ok}">${d.mejor.desde}–${d.mejor.hasta} h</span>` : `<span class="va" style="color:${C.no}">No conviene</span>`;
+  const mj = d.mejor ? `<span class="va" style="color:${C.ok}">${d.mejor.desde}–${d.mejor.hasta} h</span>` : `<span class="va" style="color:${C.no}">Ninguna</span>`;
   const v = d.viento_max ? `${d.viento_max.rumbo} ${d.viento_max.kmh}` : '–';
   $('#resumen').innerHTML = `
     <div class="celda"><span class="et">Mejor franja</span>${mj}</div>
