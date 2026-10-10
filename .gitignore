@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+# Se generan en GitHub Actions y se guardan en la rama "datos"
+web/datos.json
+data/cache/clima.json
+data/cache/olas.json

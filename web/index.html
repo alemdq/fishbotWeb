@@ -1,0 +1,49 @@
+<!doctype html>
+<html lang="es">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Escollera Norte · Pesca</title>
+<meta name="description" content="Pronóstico de pesca para la Escollera Norte de Mar del Plata: hora por hora, mareas y pique.">
+<meta name="theme-color" content="#0B1320">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+<meta name="apple-mobile-web-app-title" content="Escollera">
+<link rel="manifest" href="manifest.webmanifest">
+<link rel="icon" type="image/png" href="icono-192.png">
+<link rel="apple-touch-icon" href="icono-180.png">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Rubik:wght@400;500;600;700&amp;display=swap">
+<link rel="stylesheet" href="estilos.css">
+</head>
+<body>
+<main class="app">
+  <header class="cabecera">
+    <div class="marca">
+      <h1>Escollera Norte</h1>
+      <span class="sub">Mar del Plata</span>
+    </div>
+    <span id="estado" class="estado"><span class="punto"></span>Cargando…</span>
+  </header>
+
+  <nav id="dias" class="dias" aria-label="Días"></nav>
+
+  <section id="vistazo" class="panel" aria-label="El día de un vistazo">
+    <p class="cargando">Cargando el pronóstico…</p>
+  </section>
+
+  <section id="marea" class="panel" aria-label="Marea y pique"></section>
+
+  <section id="resumen" class="resumen" aria-label="Resumen del día"></section>
+
+  <section id="tabla" class="panel tabla" aria-label="Hora por hora"></section>
+
+  <footer id="pie" class="pie"></footer>
+</main>
+
+<dialog id="detalle" class="detalle" aria-labelledby="detalle-titulo"></dialog>
+
+<script src="app.js" defer></script>
+</body>
+</html>
