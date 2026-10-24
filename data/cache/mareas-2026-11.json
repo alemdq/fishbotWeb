@@ -1,0 +1,835 @@
+{
+ "obtenido": "2026-10-24",
+ "dias": {
+  "2026-11-01": {
+   "mareas": [
+    {
+     "hora": "04:51",
+     "tipo": "baja",
+     "altura": 0.7
+    },
+    {
+     "hora": "10:12",
+     "tipo": "alta",
+     "altura": 1.9
+    },
+    {
+     "hora": "18:39",
+     "tipo": "baja",
+     "altura": 0.8
+    },
+    {
+     "hora": "22:07",
+     "tipo": "alta",
+     "altura": 1.2
+    }
+   ],
+   "actividad": 2,
+   "sol": {
+    "sale": "05:40",
+    "pone": "19:26"
+   }
+  },
+  "2026-11-02": {
+   "mareas": [
+    {
+     "hora": "05:48",
+     "tipo": "baja",
+     "altura": 0.7
+    },
+    {
+     "hora": "11:27",
+     "tipo": "alta",
+     "altura": 1.8
+    },
+    {
+     "hora": "19:49",
+     "tipo": "baja",
+     "altura": 0.8
+    },
+    {
+     "hora": "23:15",
+     "tipo": "alta",
+     "altura": 1.2
+    }
+   ],
+   "actividad": 1,
+   "sol": {
+    "sale": "05:39",
+    "pone": "19:27"
+   }
+  },
+  "2026-11-03": {
+   "mareas": [
+    {
+     "hora": "06:52",
+     "tipo": "baja",
+     "altura": 0.7
+    },
+    {
+     "hora": "12:52",
+     "tipo": "alta",
+     "altura": 1.8
+    },
+    {
+     "hora": "20:59",
+     "tipo": "baja",
+     "altura": 0.8
+    }
+   ],
+   "actividad": 0,
+   "sol": {
+    "sale": "05:38",
+    "pone": "19:28"
+   }
+  },
+  "2026-11-04": {
+   "mareas": [
+    {
+     "hora": "00:51",
+     "tipo": "alta",
+     "altura": 1.1
+    },
+    {
+     "hora": "08:03",
+     "tipo": "baja",
+     "altura": 0.7
+    },
+    {
+     "hora": "14:14",
+     "tipo": "alta",
+     "altura": 1.7
+    },
+    {
+     "hora": "22:05",
+     "tipo": "baja",
+     "altura": 0.7
+    }
+   ],
+   "actividad": 1,
+   "sol": {
+    "sale": "05:37",
+    "pone": "19:29"
+   }
+  },
+  "2026-11-05": {
+   "mareas": [
+    {
+     "hora": "02:21",
+     "tipo": "alta",
+     "altura": 1.1
+    },
+    {
+     "hora": "09:14",
+     "tipo": "baja",
+     "altura": 0.6
+    },
+    {
+     "hora": "15:23",
+     "tipo": "alta",
+     "altura": 1.7
+    },
+    {
+     "hora": "23:04",
+     "tipo": "baja",
+     "altura": 0.7
+    }
+   ],
+   "actividad": 1,
+   "sol": {
+    "sale": "05:36",
+    "pone": "19:30"
+   }
+  },
+  "2026-11-06": {
+   "mareas": [
+    {
+     "hora": "03:28",
+     "tipo": "alta",
+     "altura": 1.1
+    },
+    {
+     "hora": "10:21",
+     "tipo": "baja",
+     "altura": 0.6
+    },
+    {
+     "hora": "16:17",
+     "tipo": "alta",
+     "altura": 1.6
+    },
+    {
+     "hora": "23:53",
+     "tipo": "baja",
+     "altura": 0.6
+    }
+   ],
+   "actividad": 2,
+   "sol": {
+    "sale": "05:35",
+    "pone": "19:31"
+   }
+  },
+  "2026-11-07": {
+   "mareas": [
+    {
+     "hora": "04:21",
+     "tipo": "alta",
+     "altura": 1.2
+    },
+    {
+     "hora": "11:20",
+     "tipo": "baja",
+     "altura": 0.6
+    },
+    {
+     "hora": "17:01",
+     "tipo": "alta",
+     "altura": 1.6
+    }
+   ],
+   "actividad": 2,
+   "sol": {
+    "sale": "05:34",
+    "pone": "19:33"
+   }
+  },
+  "2026-11-08": {
+   "mareas": [
+    {
+     "hora": "00:36",
+     "tipo": "baja",
+     "altura": 0.6
+    },
+    {
+     "hora": "05:08",
+     "tipo": "alta",
+     "altura": 1.2
+    },
+    {
+     "hora": "12:12",
+     "tipo": "baja",
+     "altura": 0.6
+    },
+    {
+     "hora": "17:38",
+     "tipo": "alta",
+     "altura": 1.6
+    }
+   ],
+   "actividad": 3,
+   "sol": {
+    "sale": "05:33",
+    "pone": "19:34"
+   }
+  },
+  "2026-11-09": {
+   "mareas": [
+    {
+     "hora": "01:14",
+     "tipo": "baja",
+     "altura": 0.6
+    },
+    {
+     "hora": "05:49",
+     "tipo": "alta",
+     "altura": 1.2
+    },
+    {
+     "hora": "13:00",
+     "tipo": "baja",
+     "altura": 0.6
+    },
+    {
+     "hora": "18:11",
+     "tipo": "alta",
+     "altura": 1.5
+    }
+   ],
+   "actividad": 3,
+   "sol": {
+    "sale": "05:32",
+    "pone": "19:35"
+   }
+  },
+  "2026-11-10": {
+   "mareas": [
+    {
+     "hora": "01:48",
+     "tipo": "baja",
+     "altura": 0.6
+    },
+    {
+     "hora": "06:29",
+     "tipo": "alta",
+     "altura": 1.3
+    },
+    {
+     "hora": "13:47",
+     "tipo": "baja",
+     "altura": 0.7
+    },
+    {
+     "hora": "18:42",
+     "tipo": "alta",
+     "altura": 1.5
+    }
+   ],
+   "actividad": 3,
+   "sol": {
+    "sale": "05:31",
+    "pone": "19:36"
+   }
+  },
+  "2026-11-11": {
+   "mareas": [
+    {
+     "hora": "02:19",
+     "tipo": "baja",
+     "altura": 0.6
+    },
+    {
+     "hora": "07:10",
+     "tipo": "alta",
+     "altura": 1.4
+    },
+    {
+     "hora": "14:36",
+     "tipo": "baja",
+     "altura": 0.7
+    },
+    {
+     "hora": "19:11",
+     "tipo": "alta",
+     "altura": 1.4
+    }
+   ],
+   "actividad": 2,
+   "sol": {
+    "sale": "05:30",
+    "pone": "19:37"
+   }
+  },
+  "2026-11-12": {
+   "mareas": [
+    {
+     "hora": "02:47",
+     "tipo": "baja",
+     "altura": 0.7
+    },
+    {
+     "hora": "07:52",
+     "tipo": "alta",
+     "altura": 1.5
+    },
+    {
+     "hora": "15:27",
+     "tipo": "baja",
+     "altura": 0.8
+    },
+    {
+     "hora": "19:39",
+     "tipo": "alta",
+     "altura": 1.3
+    }
+   ],
+   "actividad": 2,
+   "sol": {
+    "sale": "05:29",
+    "pone": "19:38"
+   }
+  },
+  "2026-11-13": {
+   "mareas": [
+    {
+     "hora": "03:10",
+     "tipo": "baja",
+     "altura": 0.7
+    },
+    {
+     "hora": "08:36",
+     "tipo": "alta",
+     "altura": 1.5
+    },
+    {
+     "hora": "16:22",
+     "tipo": "baja",
+     "altura": 0.9
+    },
+    {
+     "hora": "20:03",
+     "tipo": "alta",
+     "altura": 1.3
+    }
+   ],
+   "actividad": 1,
+   "sol": {
+    "sale": "05:29",
+    "pone": "19:39"
+   }
+  },
+  "2026-11-14": {
+   "mareas": [
+    {
+     "hora": "03:28",
+     "tipo": "baja",
+     "altura": 0.7
+    },
+    {
+     "hora": "09:23",
+     "tipo": "alta",
+     "altura": 1.6
+    },
+    {
+     "hora": "17:18",
+     "tipo": "baja",
+     "altura": 0.9
+    },
+    {
+     "hora": "20:23",
+     "tipo": "alta",
+     "altura": 1.2
+    }
+   ],
+   "actividad": 0,
+   "sol": {
+    "sale": "05:28",
+    "pone": "19:40"
+   }
+  },
+  "2026-11-15": {
+   "mareas": [
+    {
+     "hora": "03:43",
+     "tipo": "baja",
+     "altura": 0.7
+    },
+    {
+     "hora": "10:11",
+     "tipo": "alta",
+     "altura": 1.6
+    },
+    {
+     "hora": "18:15",
+     "tipo": "baja",
+     "altura": 0.9
+    },
+    {
+     "hora": "20:45",
+     "tipo": "alta",
+     "altura": 1.1
+    }
+   ],
+   "actividad": 1,
+   "sol": {
+    "sale": "05:27",
+    "pone": "19:41"
+   }
+  },
+  "2026-11-16": {
+   "mareas": [
+    {
+     "hora": "04:06",
+     "tipo": "baja",
+     "altura": 0.7
+    },
+    {
+     "hora": "11:01",
+     "tipo": "alta",
+     "altura": 1.6
+    },
+    {
+     "hora": "19:13",
+     "tipo": "baja",
+     "altura": 0.9
+    },
+    {
+     "hora": "21:12",
+     "tipo": "alta",
+     "altura": 1.0
+    }
+   ],
+   "actividad": 2,
+   "sol": {
+    "sale": "05:26",
+    "pone": "19:42"
+   }
+  },
+  "2026-11-17": {
+   "mareas": [
+    {
+     "hora": "04:38",
+     "tipo": "baja",
+     "altura": 0.6
+    },
+    {
+     "hora": "11:51",
+     "tipo": "alta",
+     "altura": 1.6
+    },
+    {
+     "hora": "20:09",
+     "tipo": "baja",
+     "altura": 0.8
+    },
+    {
+     "hora": "21:49",
+     "tipo": "alta",
+     "altura": 1.0
+    }
+   ],
+   "actividad": 2,
+   "sol": {
+    "sale": "05:26",
+    "pone": "19:44"
+   }
+  },
+  "2026-11-18": {
+   "mareas": [
+    {
+     "hora": "05:17",
+     "tipo": "baja",
+     "altura": 0.6
+    },
+    {
+     "hora": "22:40",
+     "tipo": "alta",
+     "altura": 0.9
+    }
+   ],
+   "actividad": 2,
+   "sol": {
+    "sale": "05:25",
+    "pone": "19:45"
+   }
+  },
+  "2026-11-19": {
+   "mareas": [
+    {
+     "hora": "06:05",
+     "tipo": "baja",
+     "altura": 0.5
+    },
+    {
+     "hora": "23:50",
+     "tipo": "alta",
+     "altura": 0.9
+    }
+   ],
+   "actividad": 0,
+   "sol": {
+    "sale": "05:24",
+    "pone": "19:46"
+   }
+  },
+  "2026-11-20": {
+   "mareas": [
+    {
+     "hora": "07:02",
+     "tipo": "baja",
+     "altura": 0.5
+    },
+    {
+     "hora": "14:28",
+     "tipo": "alta",
+     "altura": 1.5
+    },
+    {
+     "hora": "22:30",
+     "tipo": "baja",
+     "altura": 0.7
+    }
+   ],
+   "actividad": 1,
+   "sol": {
+    "sale": "05:24",
+    "pone": "19:47"
+   }
+  },
+  "2026-11-21": {
+   "mareas": [
+    {
+     "hora": "01:12",
+     "tipo": "alta",
+     "altura": 0.9
+    },
+    {
+     "hora": "08:10",
+     "tipo": "baja",
+     "altura": 0.5
+    },
+    {
+     "hora": "15:14",
+     "tipo": "alta",
+     "altura": 1.5
+    },
+    {
+     "hora": "23:06",
+     "tipo": "baja",
+     "altura": 0.6
+    }
+   ],
+   "actividad": 1,
+   "sol": {
+    "sale": "05:23",
+    "pone": "19:48"
+   }
+  },
+  "2026-11-22": {
+   "mareas": [
+    {
+     "hora": "02:26",
+     "tipo": "alta",
+     "altura": 1.0
+    },
+    {
+     "hora": "09:25",
+     "tipo": "baja",
+     "altura": 0.4
+    },
+    {
+     "hora": "15:55",
+     "tipo": "alta",
+     "altura": 1.5
+    },
+    {
+     "hora": "23:40",
+     "tipo": "baja",
+     "altura": 0.6
+    }
+   ],
+   "actividad": 1,
+   "sol": {
+    "sale": "05:22",
+    "pone": "19:49"
+   }
+  },
+  "2026-11-23": {
+   "mareas": [
+    {
+     "hora": "03:27",
+     "tipo": "alta",
+     "altura": 1.2
+    },
+    {
+     "hora": "10:41",
+     "tipo": "baja",
+     "altura": 0.4
+    },
+    {
+     "hora": "16:33",
+     "tipo": "alta",
+     "altura": 1.5
+    }
+   ],
+   "actividad": 2,
+   "sol": {
+    "sale": "05:22",
+    "pone": "19:50"
+   }
+  },
+  "2026-11-24": {
+   "mareas": [
+    {
+     "hora": "00:13",
+     "tipo": "baja",
+     "altura": 0.6
+    },
+    {
+     "hora": "04:21",
+     "tipo": "alta",
+     "altura": 1.3
+    },
+    {
+     "hora": "11:53",
+     "tipo": "baja",
+     "altura": 0.5
+    },
+    {
+     "hora": "17:11",
+     "tipo": "alta",
+     "altura": 1.5
+    }
+   ],
+   "actividad": 3,
+   "sol": {
+    "sale": "05:21",
+    "pone": "19:51"
+   }
+  },
+  "2026-11-25": {
+   "mareas": [
+    {
+     "hora": "00:47",
+     "tipo": "baja",
+     "altura": 0.6
+    },
+    {
+     "hora": "05:14",
+     "tipo": "alta",
+     "altura": 1.5
+    },
+    {
+     "hora": "13:01",
+     "tipo": "baja",
+     "altura": 0.5
+    },
+    {
+     "hora": "17:49",
+     "tipo": "alta",
+     "altura": 1.5
+    }
+   ],
+   "actividad": 3,
+   "sol": {
+    "sale": "05:21",
+    "pone": "19:52"
+   }
+  },
+  "2026-11-26": {
+   "mareas": [
+    {
+     "hora": "01:24",
+     "tipo": "baja",
+     "altura": 0.6
+    },
+    {
+     "hora": "06:07",
+     "tipo": "alta",
+     "altura": 1.7
+    },
+    {
+     "hora": "14:09",
+     "tipo": "baja",
+     "altura": 0.6
+    },
+    {
+     "hora": "18:30",
+     "tipo": "alta",
+     "altura": 1.4
+    }
+   ],
+   "actividad": 2,
+   "sol": {
+    "sale": "05:21",
+    "pone": "19:53"
+   }
+  },
+  "2026-11-27": {
+   "mareas": [
+    {
+     "hora": "02:04",
+     "tipo": "baja",
+     "altura": 0.6
+    },
+    {
+     "hora": "07:03",
+     "tipo": "alta",
+     "altura": 1.8
+    },
+    {
+     "hora": "15:15",
+     "tipo": "baja",
+     "altura": 0.7
+    },
+    {
+     "hora": "19:13",
+     "tipo": "alta",
+     "altura": 1.4
+    }
+   ],
+   "actividad": 1,
+   "sol": {
+    "sale": "05:20",
+    "pone": "19:54"
+   }
+  },
+  "2026-11-28": {
+   "mareas": [
+    {
+     "hora": "02:51",
+     "tipo": "baja",
+     "altura": 0.6
+    },
+    {
+     "hora": "08:03",
+     "tipo": "alta",
+     "altura": 1.9
+    },
+    {
+     "hora": "16:22",
+     "tipo": "baja",
+     "altura": 0.8
+    },
+    {
+     "hora": "19:59",
+     "tipo": "alta",
+     "altura": 1.3
+    }
+   ],
+   "actividad": 1,
+   "sol": {
+    "sale": "05:20",
+    "pone": "19:55"
+   }
+  },
+  "2026-11-29": {
+   "mareas": [
+    {
+     "hora": "03:43",
+     "tipo": "baja",
+     "altura": 0.6
+    },
+    {
+     "hora": "09:11",
+     "tipo": "alta",
+     "altura": 1.9
+    },
+    {
+     "hora": "17:27",
+     "tipo": "baja",
+     "altura": 0.8
+    },
+    {
+     "hora": "20:48",
+     "tipo": "alta",
+     "altura": 1.3
+    }
+   ],
+   "actividad": 2,
+   "sol": {
+    "sale": "05:20",
+    "pone": "19:56"
+   }
+  },
+  "2026-11-30": {
+   "mareas": [
+    {
+     "hora": "04:39",
+     "tipo": "baja",
+     "altura": 0.6
+    },
+    {
+     "hora": "10:27",
+     "tipo": "alta",
+     "altura": 1.9
+    },
+    {
+     "hora": "18:32",
+     "tipo": "baja",
+     "altura": 0.9
+    },
+    {
+     "hora": "21:42",
+     "tipo": "alta",
+     "altura": 1.2
+    }
+   ],
+   "actividad": 2,
+   "sol": {
+    "sale": "05:19",
+    "pone": "19:57"
+   }
+  }
+ }
+}
