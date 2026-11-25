@@ -71,6 +71,10 @@ jobs:
         with:
           path: web
 
+      - name: Esperar a que el artefacto esté disponible
+        if: hashFiles('web/datos.json') != ''
+        run: sleep 20
+
       - id: deploy
         if: hashFiles('web/datos.json') != ''
         uses: actions/deploy-pages@v4
